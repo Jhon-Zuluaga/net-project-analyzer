@@ -1,0 +1,13 @@
+## Ocultar carpetas de compilación
+bin/
+obj/
+
+## Configuraciones de Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+## Archivos temporales del sistema
+Thumbs.db
+.DS_Store
